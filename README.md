@@ -6,7 +6,7 @@ The Middle Eastern game of Barjees is now on iOS for the first time! Barjees is 
 
 ## Support
 
-Having issues with Barjees or maybe you'd like to request a feature? Please use [this form](https://gitreports.com/issue/kdaker/Barjees-Support) to submit your request. Be sure to include your email for contact and we will get back to you as soon as possible.
+Having issues with Barjees or maybe you'd like to request a feature? Please use [this form](https://gitreports.com/issue/kdaker/Barjees) to submit your request. Be sure to include your email for contact and we will get back to you as soon as possible.
 
 If you're submitting a bug, please include as much as detail as you can:
 
